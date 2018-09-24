@@ -4,6 +4,6 @@ def turn_count(board)
     if board[counter] == |player|
       counter += 1
     end
-    return counter 
+  return counter 
 end
 
